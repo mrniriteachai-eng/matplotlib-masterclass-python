@@ -46,18 +46,21 @@ Python
 import matplotlib.pyplot as plt
 First basic plot
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🔵 PHASE 2 — BASIC PLOTS
 📈 Line Plot
 📊 Bar Chart
 🥧 Pie Chart
 👉 Learn how data becomes visual story
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🟡 PHASE 3 — DATA INSIGHTS
 ⚡ Scatter Plot
 📉 Histogram
 Understanding data distribution
 Relationship between variables
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🔴 PHASE 4 — CUSTOMIZATION (POWER LEVEL)
 Colors 🎨
 Labels 🏷️
@@ -67,12 +70,14 @@ Markers 🔵
 Grid system 📏
 👉 Make graphs beautiful + professional
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🟣 PHASE 5 — REAL WORLD PROJECTS
 📚 Student Marks Analysis
 💰 Sales Data Visualization
 📊 Business Performance Graphs
 📈 Growth Analysis (YouTube / Finance data)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📁 PROJECT STRUCTURE
 Bash
 matplotlib-masterclass-python/
@@ -103,11 +108,13 @@ matplotlib-masterclass-python/
 ├── requirements.txt
 └── README.md
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 HOW TO RUN THIS PROJECT
 Bash
 pip install matplotlib
 python filename.py
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🎯 WHY THIS REPOSITORY IS SPECIAL
 🔥 Beginner Friendly Explanation
 🔥 Real Coding Examples
@@ -116,6 +123,7 @@ python filename.py
 🔥 Clean Structured Roadmap
 🔥 Industry Level Understanding
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 💡 REAL WORLD USE OF MATPLOTLIB
 Matplotlib is used in:
 📊 Data Science
@@ -125,33 +133,40 @@ Matplotlib is used in:
 📱 App Analytics
 📺 YouTube Growth Analysis
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📺 WATCH FULL VIDEO
 🔥 Complete Matplotlib Masterclass Video
-👉 https://youtube.com/@MrNiriTeach⁠�
-(Replace with your actual video link)
+https://youtube.com/@mrniriteach?si=N774gmSEAHXFIk17
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💻 GITHUB REPOSITORY
-👉 https://github.com/your-username/matplotlib-masterclass-python⁠�
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🌐 CONNECT WITH ME
 📺 YouTube Channel
-👉 https://youtube.com/@MrNiriTeach⁠�
+👉 https://youtube.com/@mrniriteach?si=N774gmSEAHXFIk17
+
 💻 GitHub Profile
-👉 https://github.com/your-username⁠�
+👉https://github.com/mrniriteachai-eng
+
 💼 LinkedIn Profile
-👉 https://linkedin.com/in/your-profile⁠�
+👉https://www.linkedin.com/in/nirmal-saud-a850193a0?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 FINAL MOTIVATION
 “Data is useless until you can SEE it clearly.” 📊🔥
 “Matplotlib turns numbers into stories.”
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ⭐ SUPPORT
 If you like this project:
 ⭐ Star this repository
 🍴 Fork it
+
 📢 Share with friends
 🚀 Follow for more Python content
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 👨‍💻 CREATED BY
 🔥 MrNiriTeach
 Python | Data Science | AI | Coding Education
