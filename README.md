@@ -135,14 +135,17 @@ Matplotlib is used in:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📺 WATCH FULL VIDEO
+
 🔥 Complete Matplotlib Masterclass Video
 https://youtube.com/@mrniriteach?si=N774gmSEAHXFIk17
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💻 GITHUB REPOSITORY
-
+https://github.com/mrniriteachai-eng/matplotlib-masterclass-python
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🌐 CONNECT WITH ME
+
 📺 YouTube Channel
 👉 https://youtube.com/@mrniriteach?si=N774gmSEAHXFIk17
 
